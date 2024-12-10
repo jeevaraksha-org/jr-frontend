@@ -1,0 +1,14 @@
+{
+  "appId": "com.jeevaraksha.emergency",
+  "appName": "JR_App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 5,
+      "launchAutoHide": true
+    }
+  },
+  "cordova": {}
+}

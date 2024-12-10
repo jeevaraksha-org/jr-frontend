@@ -1,0 +1,386 @@
+  @font-face {
+    font-family: 'Lora1';
+    font-style: normal;
+    /* font-weight: bold; */
+    src: url('../fonts/Lora/static/Lora-Medium.ttf');
+  }
+
+  @font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    /* font-weight: bold; */
+    src: url('../fonts/Lora/static/Lora-Bold.ttf');
+  }
+
+.Contents {
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+
+.list-md {
+    padding: 1.5rem;
+}
+
+.tandc {
+    padding-left: 0rem;
+    padding-bottom: 1rem;
+}
+
+.Header {
+    font-family: "Lora";
+    font-size: 18px;
+    margin-top: 1rem;
+}
+
+.contHead {
+    font-family: "Lora" !important;
+}
+
+.contBod {
+    font-family: "Lora1" !important;
+}
+
+.he {
+    font-size: 50px;
+    padding-top: 6rem;
+}
+
+.reg {
+    font-family: "Lora";
+    font-size: 35px;
+    margin-top: 1rem;
+}
+
+.OtpHeader {
+    font-family: "Lora";
+    font-size: 40px;
+    padding-top: 6rem;
+}
+
+.ComHeader {
+    padding-bottom: 5rem;
+}
+
+.otpHeader {
+    padding-bottom: 5rem;
+}
+
+.typHeader {
+    padding-top: 1rem;
+    font-family: sans-serif;
+}
+
+.Vol_icon {
+    font-size: 1.5rem !important;
+}
+
+.col {
+    color: #e0455f;
+}
+
+.pad {
+    padding-left: 0.5rem !important;
+    font-family: "Lora1" !important;
+    font-size: 0.9rem !important;
+}
+
+.footer-md::before {
+    background-color: #6e2c69;
+}
+
+.tha {
+    font-family: monospace !important;
+    font-size: 0.9rem !important;
+    text-align: center;
+}
+
+.item-inner {
+    border-style: none!important;
+}
+
+.UserType {
+    font-family: monospace;
+    font-size: 35px;
+    margin-top: 1.3rem;
+    padding-left: 0;
+}
+
+.VolunteerType {
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+    padding-top: 2.3rem;
+    padding-left: 0;
+}
+
+.mapp {
+    position: inherit !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+.tag {
+    text-decoration: none;
+    font-family: "Lora1";
+}
+
+.hea {
+    padding-top: 3rem !important;
+}
+
+
+.color {
+    color: #e0455f;
+}
+
+.oneandhalf {
+    line-height: 1.5em;
+}
+
+.readMoreText {
+    display: block;
+    color: #e0455f !important;
+}
+
+.names {
+    font-family: "Lora1" !important;
+    color: grey !important;
+}
+
+.Allpagesheading {
+    font-size: 30px;
+}
+
+.sign {
+    background-color: #6e2c69;
+    height: 4.5rem;
+}
+
+.test {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.JR_LOGO {
+    color: #e0455f;
+}
+
+.pad {
+    padding-right: 5rem;
+}
+
+.RH_Logo {
+    height: 9rem;
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card_img {
+    height: 5rem;
+}
+
+.cd {
+    width: 300px;
+    height: 210px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -115px;
+    background: rgb(255, 255, 255);
+}
+
+.tog {
+    margin-left: 4rem;
+}
+
+.test {
+    height: 3rem !important;
+}
+
+.a {
+    overflow: inherit !important;
+}
+
+.b {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 0.4rem;
+}
+
+.head {
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    font-size: 1.3rem;
+    color: #e0455f;
+}
+
+.map {
+    position: inherit !important;
+}
+
+.mapcard {
+    padding-right: 3rem;
+}
+
+.dir {
+    height: 92vh;
+    width: 100%;
+    min-height: 100%;
+    max-height: none;
+}
+
+.mapfunc {
+    position: inherit !important;
+}
+
+ion-spinner {
+    margin-bottom: -0.8rem;
+}
+
+.gm-fullscreen-control {
+    display: none;
+  }
+
+.mapbox {
+    width: 12rem;
+    text-align: center;
+    color: #e0455f;
+    margin: 4px auto;
+    float: none;
+}
+
+.etabox {
+    text-align: center;
+    color: #e0455f;
+    margin: 0 auto;
+    width: 14rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 30px;
+}
+
+.o {
+    margin-top: 13px;
+    padding-right: 1.4rem;
+}
+
+ion-icon {
+    color: #6e2c69;
+    font-size: 25px;
+    /* #616e7eb0;*/
+}
+
+ion-menu.md ion-note {
+    margin-bottom: 15px !important;
+}
+
+ion-menu.md ion-list {
+    padding: 0 !important;
+}
+
+.card-content-md {
+    padding-bottom: 4px !important; 
+}
+
+.Errortext {
+    color: red !important;
+    font-family: monospace;
+}
+
+.sk-cube-grid {
+    width: 40px;
+    height: 40px;
+    margin: 100px auto;
+}
+
+.sk-cube-grid .sk-cube {
+    width: 33%;
+    height: 33%;
+    background-color: #70b01e;
+    float: left;
+    -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
+    animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
+}
+.sk-cube-grid .sk-cube1 {
+    -webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+}
+.sk-cube-grid .sk-cube2 {
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+}
+.sk-cube-grid .sk-cube3 {
+    -webkit-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+}
+.sk-cube-grid .sk-cube4 {
+    -webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+}
+.sk-cube-grid .sk-cube5 {
+    -webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+}
+.sk-cube-grid .sk-cube6 {
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+}
+.sk-cube-grid .sk-cube7 {
+    -webkit-animation-delay: 0s;
+    animation-delay: 0s;
+}
+.sk-cube-grid .sk-cube8 {
+    -webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+}
+.sk-cube-grid .sk-cube9 {
+    -webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+}
+@-webkit-keyframes sk-cubeGridScaleDelay {
+    0%,
+    100%,
+    70% {
+        -webkit-transform: scale3D(1, 1, 1);
+        transform: scale3D(1, 1, 1);
+    }
+    35% {
+        -webkit-transform: scale3D(0, 0, 1);
+        transform: scale3D(0, 0, 1);
+    }
+}
+@keyframes sk-cubeGridScaleDelay {
+    0%,
+    100%,
+    70% {
+        -webkit-transform: scale3D(1, 1, 1);
+        transform: scale3D(1, 1, 1);
+    }
+    35% {
+        -webkit-transform: scale3D(0, 0, 1);
+        transform: scale3D(0, 0, 1);
+    }
+}
+
+.item + .item {
+    margin-top: 11px;
+  }
+  
+  .question {
+    cursor: pointer;
+    font-family: "Lora1";
+  }
+  
+  .answer {
+     display: none;
+     font-family: "Lora1";
+  }
+  
+  .open .answer {
+    display: block;
+  }
+  

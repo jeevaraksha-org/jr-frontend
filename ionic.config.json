@@ -1,0 +1,7 @@
+{
+  "name": "JR_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
